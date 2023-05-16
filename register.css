@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(40, 56, 145);
+
+}
+h1{
+    padding-left: 500px;
+          font-weight: 500;
+          color: white;
+          margin-top: 40px;
+          margin-bottom: 30px;
+}
+
+ input[type="email"]  {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 270px;
+  }
+  input[type="address"]{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 260px;
+  }
+  input[type="date"]{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 255px;
+  }
+  input[type="number"]{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 215px;
+  }
+  input[type="text"] {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 240px;
+
+  }
+  input[type="datetime-local"] {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+     padding: 5px;
+     margin-top: 10px;
+     margin-bottom: 15px;
+     margin-left: 230px;
+
+  }
+  
+  label{
+    margin-left: 400px;
+    color: white;
+  }
+  .button6 {
+
+    margin-top: 60px;
+    background-color: whitesmoke; 
+    border-color: white;
+    color: rgb(40, 56, 145);
+    padding: 10px 15px ;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400px;
+    cursor: pointer;
+    margin-left: 600px;
+  }

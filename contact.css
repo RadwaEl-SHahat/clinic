@@ -1,0 +1,114 @@
+form{
+    margin-left: 320px;
+    padding: 50px;
+    display: inline-block;
+    color:rgb(40,56,145);
+    font-size: 16px;
+  }
+ 
+  .nav{
+    background-color: rgb(40, 56, 145);
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 5px;
+padding-top: 0px;
+display: inline-flex;
+width: 100%;
+justify-content: space-between;
+align-items: center;
+
+}
+img{
+  height: 60px ;
+  width: 60px;
+  padding-left: 150px;
+}
+ul {
+  float:right;
+
+ display: inline-block;
+ 
+ margin: 0;
+padding: 0;
+list-style-type:none;
+
+
+}
+li a{
+  font-weight: 700;
+  font-size: 470;
+  float: right;
+  display: block;
+  width: 70px;
+  padding: 14px 16px;
+  color:rgba(255, 255, 255, 0.527);
+
+
+  
+}
+li {
+  float: left;
+}
+body{
+  background-image: url("https://www.shutterstock.com/image-photo/portrait-beautiful-smiling-nurse-talking-260nw-1469135153.jpg");
+  background-attachment: fixed;
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+  .button3 {
+    background-color:rgb(40,56,145); 
+    border: 120px;
+    color: white;
+    padding: 28px 52px;
+    text-align: center;
+    text-decoration: none ;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2px;
+    margin-left:150px;
+    cursor: pointer;}
+    .button4 {
+      background-color:rgb(40,56,145); 
+      border: 120px;
+      color: white;
+      padding: 33px 52px;
+      text-align: center;
+      text-decoration: none ;
+      border-radius: 10px;
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 50px;
+      margin-left:50px;
+      cursor: pointer;}
+      
+        h1{
+          
+          padding-left: 400px;
+          font-weight: 500;
+          color: rgb(40,56,145);
+        }
+        
+        input[type="text"], input[type="email"], textarea {
+          border: none;
+          outline: none;
+          border-bottom: 1px solid #ccc;
+           padding: 5px;
+           margin-top: 10px;
+           margin-bottom: 15px;
+        }
+        input[type="submit"]{
+          background-color:rgb(40,56,145); 
+        border: 120px;
+        color: white;
+        padding: 15px 42px;
+        text-align: center;
+        text-decoration: none ;
+        border-radius: 10px;
+        cursor: pointer;
+        margin-left: 50px;
+margin-top: 10px;
+
+        }
